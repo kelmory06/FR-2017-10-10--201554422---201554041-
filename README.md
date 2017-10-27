@@ -1,5 +1,5 @@
 Kelly Velez. 201554422
-Paula Valencia. 201554041
+Paula Valencia. 201554041.
 Descripción de los directorios en este repositorio.
 
 01-socket-utils contiene varios ejemplos básicos de programas de red en Python, e.g. abrir un socket, como redefinir la utilización de un socket, consultar por nombres de servicios, etc. Una descripción de las actividades a hacer en este directorio se describe aquí.
